@@ -14,7 +14,7 @@ class Solution {
         // return ans;
 
         int low=1,high=x;
-        int ans=1;
+        int ans=0;
         while(low<=high){
             int mid=low+(high-low)/2;
             if(mid<=x/mid){
