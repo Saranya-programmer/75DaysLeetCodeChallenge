@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [1903-largest-odd-number-in-string](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
