@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
