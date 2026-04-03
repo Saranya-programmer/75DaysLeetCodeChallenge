@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0493-reverse-pairs](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [1901-find-a-peak-element-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -145,4 +148,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
