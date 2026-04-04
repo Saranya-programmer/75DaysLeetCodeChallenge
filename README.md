@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
