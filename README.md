@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
