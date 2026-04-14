@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
