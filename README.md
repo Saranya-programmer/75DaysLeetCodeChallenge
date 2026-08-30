@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Math
 |  |
 | ------- |
