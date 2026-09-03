@@ -18,3 +18,26 @@ class Solution {
         return evenmin > oddmin;
     }
 }
+
+/*
+still shorter version
+
+class Solution {
+    public boolean uniformArray(int[] nums) {
+        int odd = Integer.MAX_VALUE, even = Integer.MAX_VALUE;
+
+        for (int x : nums) {
+            if (x % 2 == 0)
+                even = Math.min(even, x);
+            else
+                odd = Math.min(odd, x);
+        }
+
+        return odd == Integer.MAX_VALUE ||
+               even == Integer.MAX_VALUE ||
+               even > odd;
+    }
+}
+
+
+*/
