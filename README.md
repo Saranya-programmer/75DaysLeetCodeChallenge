@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [1901-find-a-peak-element-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
