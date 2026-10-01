@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
