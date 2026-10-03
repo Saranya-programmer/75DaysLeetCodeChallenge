@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
