@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [3248-snake-in-matrix](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3248-snake-in-matrix) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Binary Search
 |  |
 | ------- |
