@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
@@ -407,5 +411,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
