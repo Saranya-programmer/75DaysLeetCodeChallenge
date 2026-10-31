@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [1901-find-a-peak-element-ii](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1903-largest-odd-number-in-string](https://github.com/Saranya-programmer/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
